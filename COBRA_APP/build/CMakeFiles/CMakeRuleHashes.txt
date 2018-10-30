@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+05850475801c7da011735b908507c84b src/CMakeFiles/MinimalQml_automoc
+15825d946aa8b4677f8517b29601d91b src/qrc_qml.cpp

@@ -1,0 +1,6 @@
+/media/ayudha/workspace/workspace/COBRA-GUI/COBRA_APP/build/CMakeFiles/edit_cache.dir
+/media/ayudha/workspace/workspace/COBRA-GUI/COBRA_APP/build/CMakeFiles/rebuild_cache.dir
+/media/ayudha/workspace/workspace/COBRA-GUI/COBRA_APP/build/src/CMakeFiles/edit_cache.dir
+/media/ayudha/workspace/workspace/COBRA-GUI/COBRA_APP/build/src/CMakeFiles/rebuild_cache.dir
+/media/ayudha/workspace/workspace/COBRA-GUI/COBRA_APP/build/src/CMakeFiles/MinimalQml.dir
+/media/ayudha/workspace/workspace/COBRA-GUI/COBRA_APP/build/src/CMakeFiles/MinimalQml_automoc.dir
