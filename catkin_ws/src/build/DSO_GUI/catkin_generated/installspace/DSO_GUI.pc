@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: DSO_GUI
+Description: Description of DSO_GUI
+Version: 0.1.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 
